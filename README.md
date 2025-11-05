@@ -1,0 +1,2 @@
+# LatihanLTIK
+Membuat latihan ltik
