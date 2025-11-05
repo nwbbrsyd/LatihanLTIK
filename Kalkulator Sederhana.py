@@ -4,3 +4,4 @@ angka3 = float(input("Masukkan angka 3 : "))
 
 hasil = angka1 + angka2 + angka3
 print(f"Hasil dari penjumlahan tersebut, {angka1} + {angka2} + {angka3} = {hasil}")
+print("hello world")
